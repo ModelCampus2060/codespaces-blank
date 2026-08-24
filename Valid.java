@@ -8,7 +8,7 @@ public class Valid{
         }
     }
     public static void main(String[] args){
-        validate(26);
+        validate(28);
         System.out.println("Rest of the code.........");
     }
 }
